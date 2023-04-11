@@ -2,13 +2,13 @@
 JavaScript Re-submission 
 Reflection After Re-submission
 
-A) Use random and fix the number of holes and created too many variable. The probability method reduces variables and flexibility of the number of holes
+A) Use random and fix the number of holes that created too many variable. The probability method reduces variables and flexibility of the number of holes
 
-B) Use the If-else method is confusing but the switch method is better (Forgotten about this method )
+B) Use If-else method is confusing for comparison. The switch method is better (Forgotten about Switch method )
 
-C) Concept of movement and hitting the hole and hat is tabulated but unable to write it in a systematic. Initially created too many variables for if else for comparison and unable to add up the position of x and y. Have to do it a step at a time
+C) Ability to have the concept flow for movement and hitting the hole and hat and game over. However, unable to write it in a systematic JS. Created too many variables for if-else, unable to match and add up the position of x and y. Need to have a clear mind and do step by step
 
-D) The Out Bound works well for the col when the variable is negative but for row it gave been outcome. Unable to understand the syntax error below as all are written on the same comparison statement with same logic. Need further advise on this
+D) The Out-of-Bound works well for the col when the variable is negative or more than 9. However, for row it does not executive despite having the same comparison statement and logic. Need further advise on this
 
 
 Your position is at row -1 and col 0
